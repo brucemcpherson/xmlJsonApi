@@ -122,8 +122,8 @@ function makeObFromXml(xmlElement) {
     // is it a number
     if (isFinite(lowerValue) && lowerValue !== '') return new Number (lowerValue);
     
-    // just leave it untouched
-    return value;
+    // just leave it untouched but trimmed
+    return value.trim();
   }
   
 }
