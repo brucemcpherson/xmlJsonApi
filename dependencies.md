@@ -1,5 +1,5 @@
 # Google Apps Script Project: xmlJsonApi
-This repo (xmlJsonApi) was automatically updated on 14 March 2017 16:59:45 GMT by GasGit
+This repo (xmlJsonApi) was automatically updated on 31 October 2018 11:41:52 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project xmlJsonApi
@@ -12,11 +12,14 @@ The shared link for [xmlJsonApi is here](https://script.google.com/d/1ToyfKEt69T
 content| server_js
 conversions| server_js
 testData| server_js
+appsscript| json
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
